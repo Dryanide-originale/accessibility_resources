@@ -13,18 +13,6 @@ All the documents, links and resources you will find here have been shared and u
 * An introduction to A11y / accessibility presented by [Christina Papadimitriou](https://twitter.com/christinapap) for [WomenTechMakers Berlin](https://wtmberlin.com/)
 * This README with a list of resources
 
-## Communities
-Accessibility Club community:
-* [https://accessibility-club.org/](https://accessibility-club.org/)
-* [https://twitter.com/a11yclub](https://twitter.com/a11yclub)
-* [https://slack.a11y.club/](https://slack.a11y.club/)
-
-People to follow:
-* [Crystal Preston-Watson](https://twitter.com/ScopicEngineer), Quality and Accessibility Engineer
-* [Marcy Sutton](https://twitter.com/marcysutton), independent web developer and accessibility advocate
-* [Eric Bailey](https://twitter.com/ericwbailey), part of The A11y Project
-* [Eric Eggert](https://twitter.com/yatil), Director of Accessibility Services at Knowbility 
-
 ## More general educational resources around A11y
 The following links are food for thoughts, to give you more perspectives on the importance of accessibility
 * [What are Equivalent experiences?](https://www.smashingmagazine.com/2020/05/equivalent-experiences-part1/)
@@ -37,6 +25,7 @@ The following links are food for thoughts, to give you more perspectives on the 
 * Official website for web accessibility initiative: [https://www.w3.org/](https://www.w3.org/)
 * Resources specific to Devs: [https://www.w3.org/WAI/roles/developers/](https://www.w3.org/WAI/roles/developers/)
 * Resources specific to testing: [https://www.w3.org/WAI/roles/testers/](https://www.w3.org/WAI/roles/testers/)
+* **GREAT** list on Github around A11y [Awesome A11y](https://github.com/brunopulis/awesome-a11y) 
 
 
 # INCLUSIVE DESIGN RESOURCES
@@ -83,5 +72,16 @@ Runs accessibility test on your page
     **_How to use it?_** Right click on the web page you want to analyse → “Inspect” → in the tabs click “axe” → “run analysis”
     [Link](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd) for Chrome, [link](https://addons.mozilla.org/en-US/firefox/addon/axe-devtools/) for Firefox
 
+## Communities
+Accessibility Club community:
+* [https://accessibility-club.org/](https://accessibility-club.org/)
+* [https://twitter.com/a11yclub](https://twitter.com/a11yclub)
+* [https://slack.a11y.club/](https://slack.a11y.club/)
 
-**Happy hacking!**
+People to follow:
+* [Crystal Preston-Watson](https://twitter.com/ScopicEngineer), Quality and Accessibility Engineer
+* [Marcy Sutton](https://twitter.com/marcysutton), independent web developer and accessibility advocate
+* [Eric Bailey](https://twitter.com/ericwbailey), part of The A11y Project
+* [Eric Eggert](https://twitter.com/yatil), Director of Accessibility Services at Knowbility 
+
+**HAPPY HACKING**
