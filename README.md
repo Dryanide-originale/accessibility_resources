@@ -19,12 +19,18 @@ Accessibility Club community:
 * [https://twitter.com/a11yclub](https://twitter.com/a11yclub)
 * [https://slack.a11y.club/](https://slack.a11y.club/)
 
+People to follow:
+* [Crystal Preston-Watson](https://twitter.com/ScopicEngineer), Quality and Accessibility Engineer
+* [Marcy Sutton(https://twitter.com/marcysutton)], independent web developer and accessibility advocate
+* 
+
 ## More general educational resources around A11y
 The following links are food for thoughts, to give you more perspectives on the importance of accessibility
 * [What are Equivalent experiences?](https://www.smashingmagazine.com/2020/05/equivalent-experiences-part1/)
 * Short discussions with disabled people about the barriers they encounter on the web (~8min by episode, **good resource to get ideas for projects**): [Series: A11y Rules Soundbite](https://a11yrules.com/series/a11y-rules-soundbite/)
 * The A11y Project and [their library](https://www.a11yproject.com/resources/) of many resources
 ** Highlight on their [Vision simulator resources](https://www.a11yproject.com/resources/#vision-simulators), to put you in the shoes of visually impaired users
+* [What Non-Disabled People Get Wrong About Accessibility](https://yetanotherlefty.wordpress.com/2017/05/01/what-non-disabled-people-get-wrong-about-accessibility/)
 
 # GENERAL A11Y RESOURCES
 * Official website for web accessibility initiative: [https://www.w3.org/](https://www.w3.org/)
@@ -51,7 +57,8 @@ Here is an non-exhaustive list of assistive tech that disabled people might use 
 * [ablenetinc.com](https://www.ablenetinc.com/)
 * Devices specifically for iOS and Apple [IAccessibility](https://www.iaccessibility.com/)
 * [Boundlessat](https://www.boundlessat.com/)
-* []ehabMart](https://www.rehabmart.com/category/pediatric_assistive_technology.htm) have video demos of some of the AT which is very informative
+* [RehabMart](https://www.rehabmart.com/category/pediatric_assistive_technology.htm) have video demos of some of the AT which is very informative
+* [How accessibility trees inform assistive tech](https://hacks.mozilla.org/2019/06/how-accessibility-trees-inform-assistive-tech/)
 
 Original list ☝ was shared by [Crystal Preston-Watson](https://twitter.com/ScopicEngineer). We highly recommend you to follow her if you are interested in A11y work!
 
@@ -61,6 +68,8 @@ Original list ☝ was shared by [Crystal Preston-Watson](https://twitter.com/Sco
 * Offline speech recognition and speaker identification for mobile applications [Alphacephei](https://alphacephei.com/vosk/android)
 * Android Accessibility — Where to start? [article with suggestion of tools and advice](https://medium.com/microsoft-mobile-engineering/android-accessibility-where-to-start-b7875045d9)
 * [Accessibility checklist](https://www.duetds.com/accessibility/) used by [Duet](https://www.duetds.com)’s core team when developing new features
+* Static AST checker for accessibility rules on elements in .vue: [Plugin Vue a11y](https://github.com/maranran/eslint-plugin-vue-a11y)
+
 
 ## [WAVE](https://wave.webaim.org/help)
 Evaluate the accessibility of your web content
@@ -72,5 +81,6 @@ Evaluate the accessibility of your web content
 Runs accessibility test on your page
     **_How to use it?_** Right click on the web page you want to analyse → “Inspect” → in the tabs click “axe” → “run analysis”
     [Link](https://chrome.google.com/webstore/detail/axe-devtools-web-accessib/lhdoppojpmngadmnindnejefpokejbdd) for Chrome, [link](https://addons.mozilla.org/en-US/firefox/addon/axe-devtools/) for Firefox
+
 
 **Happy hacking!**
