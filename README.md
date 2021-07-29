@@ -4,7 +4,7 @@ Dear participant to _Code Institute x Trust In SODA_ Hackathon 👩‍💻👨�
 
 First and foremost: 🎊**CONGRATULATION**🎊 in taking that challenge and particpating in this Hackathon! This is a great opportunity to learn 👩‍🏫👨‍🏫 and work with a team for an inspiring project. I hope you will enjoy that experience!
 
-Secondly, 🌳[Ecosia](https://www.ecosia.org/)🌳 and [I](https://www.linkedin.com/in/jessyhalison/) are incredibly proud to participate as judge, and supporting your journey in this little adventure with some resources.
+Secondly, 🌳[Ecosia](https://www.ecosia.org/)🌳 and [myself](https://www.linkedin.com/in/jessyhalison/) are incredibly proud to participate as judge, and supporting your journey in this little adventure with some resources.
 All the documents, links and resources you will find here have been shared and used by our internal team dedicated to A11y and accessibility. We hope this will be helpful to you as much as they have been (and still are) useful to us!
 
 
@@ -21,15 +21,16 @@ Accessibility Club community:
 
 People to follow:
 * [Crystal Preston-Watson](https://twitter.com/ScopicEngineer), Quality and Accessibility Engineer
-* [Marcy Sutton(https://twitter.com/marcysutton)], independent web developer and accessibility advocate
-* 
+* [Marcy Sutton](https://twitter.com/marcysutton), independent web developer and accessibility advocate
+* [Eric Bailey](https://twitter.com/ericwbailey), part of The A11y Project
+* [Eric Eggert](https://twitter.com/yatil), Director of Accessibility Services at Knowbility 
 
 ## More general educational resources around A11y
 The following links are food for thoughts, to give you more perspectives on the importance of accessibility
 * [What are Equivalent experiences?](https://www.smashingmagazine.com/2020/05/equivalent-experiences-part1/)
 * Short discussions with disabled people about the barriers they encounter on the web (~8min by episode, **good resource to get ideas for projects**): [Series: A11y Rules Soundbite](https://a11yrules.com/series/a11y-rules-soundbite/)
 * The A11y Project and [their library](https://www.a11yproject.com/resources/) of many resources
-** Highlight on their [Vision simulator resources](https://www.a11yproject.com/resources/#vision-simulators), to put you in the shoes of visually impaired users
+    * Highlight on their [Vision simulator resources](https://www.a11yproject.com/resources/#vision-simulators), to put you in the shoes of visually impaired users
 * [What Non-Disabled People Get Wrong About Accessibility](https://yetanotherlefty.wordpress.com/2017/05/01/what-non-disabled-people-get-wrong-about-accessibility/)
 
 # GENERAL A11Y RESOURCES
@@ -40,8 +41,8 @@ The following links are food for thoughts, to give you more perspectives on the 
 
 # INCLUSIVE DESIGN RESOURCES
 
-* [The practice of inclusive design](https://developer.apple.com/videos/play/wwdc2021/10275/), extract from this year’s Apple Developer Conference WWDC
-* [The process of inclusive design](https://developer.apple.com/videos/play/wwdc2021/10304/), extract from this year’s Apple Developer Conference WWDC
+* [The PRACTICE of inclusive design](https://developer.apple.com/videos/play/wwdc2021/10275/), extract from this year’s Apple Developer Conference WWDC
+* [The PROCESS of inclusive design](https://developer.apple.com/videos/play/wwdc2021/10304/), extract from this year’s Apple Developer Conference WWDC
 * [Accessible Color Standards - Designing in the Browser](https://www.youtube.com/watch?app=desktop&v=sEDnmNtEaqQ)
 * [Talk](https://docs.google.com/presentation/d/1SdHOInrE_tFqVZ6G4tNDb5FOG8Ki5eshQG1L-277Mfc/edit#slide=id.g2ba80dd944_6_39) hosted by the accessibility team at gov.uk
 * Resources specific to Designers: [https://www.w3.org/WAI/roles/designers/](https://www.w3.org/WAI/roles/designers/)
